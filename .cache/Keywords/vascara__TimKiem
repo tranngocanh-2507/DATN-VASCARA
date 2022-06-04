@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "93A072C829A8D10752B5DE856F665D5C",
+  "keywordClasses": [
+    {
+      "name": "vascara.TimKiem",
+      "keywordMethods": [
+        {
+          "name": "Tim_kiem",
+          "parameters": [
+            {
+              "name": "Search",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

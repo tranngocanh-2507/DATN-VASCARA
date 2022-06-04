@@ -1,0 +1,73 @@
+{
+  "keywordFileContentHash": "D3D890AE83120F75AC7F69CA84490DEF",
+  "keywordClasses": [
+    {
+      "name": "register.DangKy",
+      "keywordMethods": [
+        {
+          "name": "dk1",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "DK_Emai_sai",
+          "parameters": [
+            {
+              "name": "Email",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "DK_SDT_sai",
+          "parameters": [
+            {
+              "name": "SDT",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "DK_MK_sai",
+          "parameters": [
+            {
+              "name": "MK",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

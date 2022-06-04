@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "26095600A6EA3B30195F79280E082F69",
+  "keywordClasses": [
+    {
+      "name": "register.DK",
+      "keywordMethods": [
+        {
+          "name": "dk1",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

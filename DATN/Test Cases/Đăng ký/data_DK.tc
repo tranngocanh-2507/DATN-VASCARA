@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>data_DK</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c1fb149-cd81-4994-8707-0fa46a2c23f3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b7926963-856c-4b1b-aca6-972e15229caa</id>
+      <masked>false</masked>
+      <name>Ten</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa2e568b-4b28-4b7c-b861-214c0dd4803a</id>
+      <masked>false</masked>
+      <name>MK</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc21cbc7-84ae-4b43-91d3-9b29ec9185d1</id>
+      <masked>false</masked>
+      <name>SDT</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc3c4cff-4433-473c-9300-3f45b24c8b80</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>

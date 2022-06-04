@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "AC25FD9460A6A7F399CCE90F44C10F03",
+  "keywordClasses": [
+    {
+      "name": "register.Dat_Hang",
+      "keywordMethods": [
+        {
+          "name": "Nhap_dung",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

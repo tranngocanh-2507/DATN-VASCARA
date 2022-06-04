@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Data_DN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21623c13-366a-4a36-8708-d02d51f25fda</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6e4f15e2-c593-45df-bc3b-32d81a9e5598</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>50171375-2237-4881-9aba-9dbdf3c1b598</id>
+      <masked>false</masked>
+      <name>MK</name>
+   </variable>
+</TestCaseEntity>

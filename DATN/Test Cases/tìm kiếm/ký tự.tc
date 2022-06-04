@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ký tự</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fecdcd1-3f22-4385-bc7c-63eb11de5e4c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>070d632b-6215-4595-8273-198a3e43d6dd</id>
+      <masked>false</masked>
+      <name>Search</name>
+   </variable>
+</TestCaseEntity>

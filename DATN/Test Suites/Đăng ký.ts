@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Đăng ký</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d8dc8c90-4a0a-43ac-af91-510f67615c29</testSuiteGuid>
+   <testCaseLink>
+      <guid>d05607c1-e0d7-4142-977c-30f3bc47c903</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Đăng ký/data_DK</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2b903d6a-c149-4ac8-8e12-13cf2aec4664</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data-DK</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>2b903d6a-c149-4ac8-8e12-13cf2aec4664</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Ten</value>
+         <variableId>b7926963-856c-4b1b-aca6-972e15229caa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2b903d6a-c149-4ac8-8e12-13cf2aec4664</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MK</value>
+         <variableId>fa2e568b-4b28-4b7c-b861-214c0dd4803a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2b903d6a-c149-4ac8-8e12-13cf2aec4664</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SDT</value>
+         <variableId>cc21cbc7-84ae-4b43-91d3-9b29ec9185d1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2b903d6a-c149-4ac8-8e12-13cf2aec4664</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>dc3c4cff-4433-473c-9300-3f45b24c8b80</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

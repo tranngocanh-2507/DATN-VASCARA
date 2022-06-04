@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "C7CD4D419C00B507AE35682CD74B4352",
+  "keywordClasses": [
+    {
+      "name": "register.TimKiem",
+      "keywordMethods": [
+        {
+          "name": "Tim_kiem",
+          "parameters": [
+            {
+              "name": "Search",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
